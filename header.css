@@ -1,0 +1,44 @@
+.header
+{
+    position: fixed;
+    top: 0px; 
+    left: 0px;
+    right: 0px; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(190, 225, 255);
+    height: 50px;
+    align-items: center;
+}
+
+.header-icon
+{
+    height: 24px;
+    margin: 0px 5px; 
+}
+
+.header-front
+{
+    flex:1;
+    min-width: 250px;
+}
+
+.header-end
+{
+    
+}
+
+.header button
+{
+    border: none;
+    background-color: grey;
+    width: 50px; 
+    height: 30px; 
+    margin: 0px 5px; 
+}
+
+.header button:hover
+{
+    background-color: rgb(80, 80, 80);
+}

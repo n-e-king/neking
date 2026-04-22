@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+
+    <title>King's court</title>
+    
+    <link rel="stylesheet" href="generic.css">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="footer.css">
+
+    <style>
+        body
+        {
+            height: 3000px; 
+        }
+
+        .main-content-flex
+        {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            align-items: top;
+            margin: 100px 30px 0px 30px; 
+            gap: 50px; 
+        }
+
+        .dev-pic
+        {
+            width: 20%;
+            height: auto;
+            min-width: 100px;
+            max-width: 400px;
+            display: inline-block;
+            flex: 1;
+            border-radius: 30px; 
+            box-shadow: -10px -10px 0px rgb(120, 127, 221);
+        }
+
+        .description
+        {
+            margin: 10px 20px; 
+        }
+
+        .description-div
+        {
+            width: 20%;
+            height: auto;
+            background-color: black;
+            flex: 1;
+            border-radius: 30px;
+            min-width: 100px;
+            max-width: 400px;
+            box-shadow: 10px -10px 0px rgb(221, 120, 120);
+        }
+    </style>
+</head>
+
+<body>
+
+
+<!-- this section is for the main content-->
+<div class="main-content-flex">
+    <img class="dev-pic" src="resources/wip.jpg" class="dev-pic">
+    <div class="description-div"><p class="description"> my description goes here </p> </div>
+</div>
+
+
+
+
+
+<!-- this section is for the header -->
+<div class="header">
+
+    <div class="header-front">
+        <a href="index.html"> <button>about</button> </a>
+        <a href="blog.html"> <button>blog</button> </a>
+        <a href="3D_art.html"> <button>art</button> </a>
+        <a href="games.html"> <button>games</button> </a>
+    </div>
+
+    <div class="header-end">
+        <img class="header-icon" src="icons/steam_logo.svg">
+        <img class="header-icon" src="icons/youtube_logo.svg">
+        <img class="header-icon" src="icons/bluesky_logo.svg">
+        <img class="header-icon" src="icons/x_logo.svg">
+        <img class="header-icon" src="icons/instagram_logo.svg">
+    </div>
+
+</div>
+<!-- this section is for the footer -->
+<div class="footer">
+    <p> &copy; Copyright 2026 Nikos King. All rights reserved.</p>
+    <p> Usage of this content to train any instance of AI (artificial intelligence) or for any other reason concerning AI is EXPRESSLY forbidden.</p>
+</div>
+
+</body>
+</html>

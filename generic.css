@@ -1,0 +1,23 @@
+p
+{
+    margin: 0px; 
+}
+
+div
+{
+    margin: 0px;
+}
+
+body
+{
+    margin: 0px;
+    padding: 60px 20px; 
+    background-color: rgb(46, 44, 46);
+    color: aliceblue;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
