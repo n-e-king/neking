@@ -1,0 +1,15 @@
+it's only after building a website that I'm reminded once again that every new skill you learn is in fact an infinite rabbit hole of detail. 
+
+like sure, I picked up a decent amount of html, but now if I want my website to do anything more complex than basically just displaying things, I'm also going to have to learn JS. and even from an HTML/CSS standpoint, I'm realising that I could learn a lot more. 
+
+even looking at my website, it's not looking... amazing. and this is more of a web DESIGN problem, where I just haven't built a website yet, so it's hard for me to think up a good looking website. the other problem is I HAVEN'T DONE ANYTHING YET, so I don't have any particular brand to build off yet. I've called my website the "king's court", a play off my last name, but I don't really like kings as a theme. king's are kind of lame. 
+
+the landing page I wanted to make like a news page, but then I realised there was no point of a news page with nothing to report on. so now the landing page is the about page instead, and I'll update it into a news page when I have other content on the website. 
+
+
+
+there was no point in learning this if I was just going to build 1 website and then forget everything, so I need to practice and continue to learn, but I have to admit, while I've enjoyed HTML/CSS, I'm not super excited to have continue practicing it.
+
+-----
+
+I'm not super impressed with my own website, but like, I don't even know what to do with it at this point. like, _I haven't done anything yet_ I don't have like a game or anything I can style it after, I don't have any particularly good ideas for just general themes. I called it king's court, a play off my last name, but I don't even really like the sort of kingly aesthetic, I'm more into like warriors or witches. 
